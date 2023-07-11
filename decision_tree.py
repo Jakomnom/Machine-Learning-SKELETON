@@ -131,36 +131,4 @@ class DecisionTree:
             self._traverse_tree(x, self.root)
             predictions.append(pred)
         return predictions
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
+        
